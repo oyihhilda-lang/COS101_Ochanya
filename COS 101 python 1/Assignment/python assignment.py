@@ -1,0 +1,9 @@
+#classroom_chairs.py
+#purpose:To calculate and display total number of chairs
+#in a classroom containingsix rows with eight chairs in each row[span_1](start_span)[span_1](end_span).
+
+#define the number of rows and chairs per row using integers[span_2](start_span)[span_2](end_span)rows=6[span_3](start_span)[span_3](end_span) chairs_per_row=8[span_4](start_span)[span_4](end_span)
+
+#calculate the total number of chairs total_chairs=rows*chairs_per_row
+#display the information using basic print and strings[span_5](start_span)[span_5](end_span) print("number of rows") print(rows)
+# print("chairs per row:")print (chairs_per_row) print("calculated total:") print(total_chairs)
